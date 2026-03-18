@@ -1,0 +1,46 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+.Middlebackground {
+    width: 49.9%;
+    height: 100%;
+    background: #b4b8b0;
+    z-index: -1;
+    margin-left: 24.95%;
+}
+
+.Searchbar {
+    margin-left: 33.3%;
+}
+.Searchbarvalues {
+    height: 40px;
+    width: 44.4%;
+    font-size: 20px;
+    margin-top: 4%;
+    border: white;
+    border-radius: 5px;;
+    font-family: "Bookman Old Style";
+    color: #919591;
+}
+.Searchicon {
+    margin-left: 64.5%;
+    margin-top: -6.3%;
+}
+
+.Mainwindow {
+    width: 90%;
+    height: 85%;
+    background-color: #d5dad4;
+    margin-left: 5%;
+    margin-top: 2.5%;
+    font-size: 25px;
+    text-align: center;
+    color: #747774;
+}
+
+.Pokemonimage {
+    width: 50%;
+    margin-top: 5%;
+    /*margin-left: -11%;*/
+}
